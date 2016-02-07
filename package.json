@@ -1,6 +1,6 @@
 {
   "name": "hb-emitter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node event emitter that allows wildcards and access to an array of all the events",
   "main": "emitter.js",
   "dependencies": {
@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
